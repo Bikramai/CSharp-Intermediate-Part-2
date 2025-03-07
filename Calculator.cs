@@ -1,4 +1,4 @@
-﻿namespace Methods
+﻿namespace Fields
 {
     public class Calculator
     {

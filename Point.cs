@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Methods
+namespace Fields
 {
     public class Point
     {
