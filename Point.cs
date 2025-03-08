@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Fields
+namespace AccessModifiers
 {
     public class Point
     {
