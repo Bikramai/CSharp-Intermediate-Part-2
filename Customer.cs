@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Properties
+namespace Indexers
 {
     public class Customer
     {

@@ -1,4 +1,4 @@
-﻿namespace Properties
+﻿namespace Indexers
 {
     public class Order
     {

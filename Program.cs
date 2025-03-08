@@ -4,14 +4,15 @@ using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Properties
+namespace Indexers
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var person = new Person(new DateTime(1985, 2, 1));
-            Console.WriteLine(person.Age);
+            var cookie = new HttpCookie();
+            cookie["name"] = "Bikram";
+            Console.WriteLine(cookie["name"]);
         }
     }
 }
