@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace AccessModifiers
+namespace Properties
 {
     public class Customer
     {

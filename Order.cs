@@ -1,4 +1,4 @@
-﻿namespace AccessModifiers
+﻿namespace Properties
 {
     public class Order
     {
