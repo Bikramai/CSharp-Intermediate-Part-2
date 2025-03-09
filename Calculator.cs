@@ -1,4 +1,4 @@
-﻿namespace Indexers
+﻿namespace Inheritance
 {
     public class Calculator
     {

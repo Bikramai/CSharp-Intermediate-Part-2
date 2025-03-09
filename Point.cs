@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Indexers
+namespace Inheritance
 {
     public class Point
     {

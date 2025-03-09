@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Indexers
+namespace Inheritance
 {
     public class HttpCookie
     {

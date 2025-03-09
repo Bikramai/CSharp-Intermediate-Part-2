@@ -1,18 +1,17 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Indexers
+namespace Inheritance
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var cookie = new HttpCookie();
-            cookie["name"] = "Bikram";
-            Console.WriteLine(cookie["name"]);
+            var text = new Text();
+            text.Width = 100;
+            text.Copy();
         }
     }
 }
