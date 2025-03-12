@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Composition
+namespace AccessModifiers
 {
     public class Installer
     {

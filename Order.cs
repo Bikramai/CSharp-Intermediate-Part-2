@@ -1,4 +1,4 @@
-﻿namespace Inheritance
+﻿namespace AccessModifiers
 {
     public class Order
     {

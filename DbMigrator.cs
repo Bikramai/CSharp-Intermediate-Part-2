@@ -1,6 +1,6 @@
-﻿using Inheritance;
+﻿using AccessModifiers;
 
-namespace Composition
+namespace AccessModifiers
 {
     public class DbMigrator
     {

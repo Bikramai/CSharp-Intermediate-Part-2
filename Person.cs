@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Inheritance
+namespace AccessModifiers
 {
     public class Person
     {
