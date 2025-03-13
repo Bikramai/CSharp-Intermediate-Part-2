@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Calculator.cs" />
     <Compile Include="Customer.cs" />
-    <Compile Include="Customer1.cs" />
     <Compile Include="DbMigrator.cs" />
     <Compile Include="HttpCookie.cs" />
     <Compile Include="Installer.cs" />
