@@ -1,4 +1,5 @@
-﻿
+﻿using Amazon;
+
 namespace AccessModifiers
 {
     class Program
@@ -6,6 +7,7 @@ namespace AccessModifiers
         static void Main(string[] args)
         {
             var customers = new Customer();
+            Amazon.
         }
     }
 }
